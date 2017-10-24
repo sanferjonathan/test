@@ -14,7 +14,7 @@ int sub (int a, int b) {
 
 int main () {
 	int a, b, c, d;
-	printf("hello, give two numbers!!\n");
+	printf("hello, give two numbers!!!!!\n");
 	scanf("%d", &a);
 	scanf("%d", &b);
 	c = add(a, b);
